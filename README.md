@@ -14,5 +14,5 @@ Please refer to de code directory.
 
 3. Data
 
-You can get access to the data through this link:
+You can get access to the data through this link: https://drive.google.com/drive/folders/1JawW8kqRsBIJfS0u3ki_eEh4BeDjZ18T?usp=sharing
 
