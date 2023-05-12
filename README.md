@@ -10,5 +10,9 @@ The demo video is:
 
 2. Code
 
+Please refer to de code directory.
+
 3. Data
+
+You can get access to the data through this link:
 
