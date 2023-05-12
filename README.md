@@ -6,7 +6,7 @@ The repository contains three parts:
 
 You can experience our demo at http://202.120.38.146:8079
 
-The demo video is:
+The demo video is: https://drive.google.com/file/d/17OmWNkl_ZgOcb7_na0f42cSoVBLVE34S/view?usp=sharing
 
 2. Code
 
