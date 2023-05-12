@@ -2,8 +2,9 @@
 
 The repository contains three parts: 
 
-\begin{enumerate}
-\item Demo
-\item Code
-\item Data
-\end{enumerate}
+1. Demo
+
+2. Code
+
+3. Data
+
