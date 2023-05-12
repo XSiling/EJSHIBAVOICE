@@ -10,7 +10,7 @@ The demo video is:
 
 2. Code
 
-Please refer to de code directory.
+Please refer to the code directory.
 
 3. Data
 
