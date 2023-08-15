@@ -1,4 +1,4 @@
-# AAAI_EJSHIBAVOICE
+# EJSHIBAVOICE
 
 The repository contains three parts: 
 
